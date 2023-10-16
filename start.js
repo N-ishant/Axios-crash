@@ -1,3 +1,9 @@
+/*
+(1)Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the 
+browser and it supports the Promise API that is native to JS ES6.
+(2)It has ability to make HTTP requests from the browser and handle the transformation of request and 
+response data.
+*/
 // GET REQUEST
 function getTodos() {
     console.log('GET Request');
